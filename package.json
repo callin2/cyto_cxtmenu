@@ -2,7 +2,7 @@
   "name": "cyto_cxtmenu",
   "version": "1.0.0",
   "description": "contect menu widget for cytoscape.js. support nested menu. dynamic menu item",
-  "main": "index.js",
+  "main": "src/CxtMenu.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "coffee -c src/CxtMenu.litcoffee"
