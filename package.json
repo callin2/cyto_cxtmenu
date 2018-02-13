@@ -1,0 +1,23 @@
+{
+  "name": "cyto_cxtmenu",
+  "version": "1.0.0",
+  "description": "contect menu widget for cytoscape.js. support nested menu. dynamic menu item",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cytoscape",
+    "context",
+    "menu",
+    "ui"
+  ],
+  "author": {
+    "name": "임창진"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callin2/cyto_cxtmenu.git"
+  }
+}
