@@ -4,7 +4,8 @@
   "description": "contect menu widget for cytoscape.js. support nested menu. dynamic menu item",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "coffee -c src/CxtMenu.litcoffee"
   },
   "keywords": [
     "cytoscape",
