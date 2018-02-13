@@ -8,7 +8,7 @@ Context menu for cytoscape
 4. support nested menu
 5. self contained. no other dependencies
 
-# (if you want see uml in chrome browser install https://github.com/callin2/plantUML_everywhere )
+# (if you want see diagram(or uml) in this document on chrome browser. you must install https://github.com/callin2/plantUML_everywhere )
 
 css
 
@@ -28,7 +28,7 @@ module name
  ++ menuSelectHandler : [Function]
  ++ menu : [Menu]
  +++ name : [String]
- +++ viewWhen : [Boolean|String|Function] optional default true
+ +++ viewWhen : [Boolean\|String\|Function] optional default true
  +++ onselect : [Function] optional
  +++ submenu : [Array<Menu>] optional
 }
