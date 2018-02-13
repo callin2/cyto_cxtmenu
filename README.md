@@ -42,6 +42,7 @@ cy.cxtMenu({
 })
 ```
 
+see self documented source [https://github.com/callin2/cyto_cxtmenu/blob/master/src/CxtMenu.litcoffee]
 
 
 #### LICENSE
