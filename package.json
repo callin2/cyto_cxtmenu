@@ -1,6 +1,6 @@
 {
   "name": "cyto_cxtmenu",
-  "version": "1.1.1",
+  "version": "1.0.1",
   "description": "contect menu widget for cytoscape.js. support nested menu. dynamic menu item",
   "main": "src/CxtMenu.js",
   "scripts": {
