@@ -15,7 +15,7 @@
   // css
   var CxtMenu, MODULE_NAME, UMD, addClass, defaultOption, hasClass, hide, isPromise, offset, parents, register, removeClass, removeDomElem, show, toggleClass;
 
-  require('./cytoscape-context-menus.css');
+  // require('./cytoscape-context-menus.css');
 
   MODULE_NAME = "cyto-cxt-menu";
 
