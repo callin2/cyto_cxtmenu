@@ -12,8 +12,7 @@ Context menu for cytoscape
 
 css
 
-    require('./CxtMenu.css');
-
+    #require('./CxtMenu.css');
 
 module name
 
