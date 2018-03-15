@@ -8,11 +8,11 @@ Context menu for cytoscape
 4. support nested menu
 5. self contained. no other dependencies
 
-# (if you want see diagram(or uml) in this document on chrome browser. you must install https://github.com/callin2/plantUML_everywhere )
+### (if you want see diagram(or uml) in this document on chrome browser. you must install https://github.com/callin2/plantUML_everywhere )
 
 css
 
-    require('./cytoscape-context-menus.css');
+    require('./CxtMenu.css');
 
 
 module name
